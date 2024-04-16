@@ -9,6 +9,9 @@ footer{
     color: white !important;
     text-align: center !important;
 }
+.car-img{
+    max-height: 55em !important;
+}
 .carousel-caption{
     background-color: rgba(27, 21, 21, 0.377) !important;
 }
@@ -16,6 +19,18 @@ footer{
     background-color: rgb(65, 1, 65) !important;
     text-align: center !important;
     color: white !important;
-    padding: 2em !important;
-    margin-bottom: 5em !important;
+    padding: 2em !important;  
+}
+.sec-pacotes{
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    justify-content: center !important;
+    margin: 1% !important;
+}
+.card{
+    padding: 1% !important;
+    margin: 0% 1% 1% !important;
+}
+.card p{
+    text-align: justify !important;
 }
