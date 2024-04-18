@@ -34,3 +34,8 @@ footer{
 .card p{
     text-align: justify !important;
 }
+.sec-contato{
+    margin-bottom: 10% !important;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+}
