@@ -1,11 +1,11 @@
 .nav-top{
-    background-color: rgb(65, 1, 65) !important;
+    background-color: rgb(129, 1, 129) !important;
 }
 .nav-link{
     color: white !important;
 }
 footer{
-    background-color: rgb(65, 1, 65) !important;
+    background-color: rgb(129, 1, 129) !important;
     color: white !important;
     text-align: center !important;
 }
@@ -16,7 +16,7 @@ footer{
     background-color: rgba(27, 21, 21, 0.377) !important;
 }
 .divisao{
-    background-color: rgb(65, 1, 65) !important;
+    background-color: rgb(129, 1, 129) !important;
     text-align: center !important;
     color: white !important;
     padding: 2em !important;  
@@ -34,8 +34,19 @@ footer{
 .card p{
     text-align: justify !important;
 }
+.card h4{
+    color: rgb(0, 0, 0) !important;
+}
 .sec-contato{
     margin-bottom: 10% !important;
     margin-left: 10% !important;
     margin-right: 10% !important;
+}
+.links{
+    text-align: center !important;
+    padding: 1em !important;
+    color: rgb(0, 0, 0) !important;
+}
+.mapa{
+    margin-top: 5% !important;
 }
